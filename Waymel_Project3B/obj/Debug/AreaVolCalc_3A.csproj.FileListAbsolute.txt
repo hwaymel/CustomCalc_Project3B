@@ -1,0 +1,10 @@
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\obj\Debug\AreaVolCalc_3A.Properties.Resources.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\obj\Debug\AreaVolCalc_3A.csproj.GenerateResource.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\obj\Debug\AreaVolCalc_3A.csproj.CoreCompileInputs.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\bin\Debug\AreaVolCalc_3A.exe.config
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\bin\Debug\AreaVolCalc_3A.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\bin\Debug\AreaVolCalc_3A.pdb
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\obj\Debug\AreaVolCalc_3A.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\obj\Debug\AreaVolCalc_3A.pdb
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\obj\Debug\AreaVolCalc_3A.frmAreaVolCalc.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\CustomCalc_3A\AreaVolCalc_3A\AreaVolCalc_3A\obj\Debug\AreaVolCalc_3A.csprojAssemblyReference.cache
